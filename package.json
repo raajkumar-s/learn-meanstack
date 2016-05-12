@@ -1,0 +1,25 @@
+{
+  "name": "learn-meanstack",
+  "version": "1.0.0",
+  "description": "Sample app for learning MEAN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raajkumar-s/learn-meanstack.git"
+  },
+  "keywords": [
+    "Mongodb",
+    "angular",
+    "express",
+    "node"
+  ],
+  "author": "raajkumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raajkumar-s/learn-meanstack/issues"
+  },
+  "homepage": "https://github.com/raajkumar-s/learn-meanstack#readme"
+}
